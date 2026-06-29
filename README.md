@@ -48,15 +48,6 @@ chmod +x install.sh
 
 ---
 
-## Updating
-
-```bash
-chmod +x update.sh
-./update.sh
-```
-
----
-
 ## Uninstall
 
 ```bash
