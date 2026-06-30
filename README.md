@@ -86,8 +86,8 @@ PolyMint/
 - Python 3
 - wmctrl
 - xdotool
-- Kitty
-- Nemo
+- Kitty (optional)
+- Nemo (optional)
 - NetworkManager
 - Nerd Fonts
 - Noto Color Emoji
